@@ -27,3 +27,20 @@ Neural networks [ BPNN,MLP,RBF,RNN] have been used to create different models wh
 * such as BPNN,MLP,RBF,RNN
 * Among these 4 models BPNN performed well with 86% accuracy and weighted F1 score of 85% 
 * Different evaluation metrics used were accuracy, Weighted F1 score, kappa score, precision, recall
+
+## Result
+
+* CASE-1: When tomorrow is rainy:
+* INPUT:
+* ![Screenshot 2023-04-14 223416](https://user-images.githubusercontent.com/126506928/232222956-a8655def-180f-4494-8853-b9ed04eed37e.png)
+* OUTPUT:
+* ![Screenshot 2023-04-14 213721](https://user-images.githubusercontent.com/126506928/232222985-6fc910c3-0569-4502-a6a9-e1625ef7623a.png)
+
+* CASE-2: When tomorrow is sunny:
+* INPUT:
+* ![Screenshot 2023-04-14 223048](https://user-images.githubusercontent.com/126506928/232223067-1fef6edb-0368-4a10-ace7-f7831b012222.png)
+* OUTPUT:
+* ![Screenshot 2023-04-14 222432](https://user-images.githubusercontent.com/126506928/232223081-26e50f3d-e9ec-4d38-8176-711ba480bfaa.jpg)
+
+
+
